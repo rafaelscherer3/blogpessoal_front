@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" preserveAspectRatio="xMidYMid slice" fill="none">
+  <defs>
+    <linearGradient id="capaGrad" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F2E2B"/>
+      <stop offset="0.55" stop-color="#134E4A"/>
+      <stop offset="1" stop-color="#115E59"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" fill="url(#capaGrad)"/>
+  <circle cx="120" cy="60" r="70" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="800" cy="200" r="110" fill="#FFFFFF" opacity="0.05"/>
+  <circle cx="700" cy="40" r="40" fill="#FFFFFF" opacity="0.05"/>
+  <path d="M0 210c150-40 300 30 450 0s300-40 450 10v40H0z" fill="#FFFFFF" opacity="0.05"/>
+</svg>

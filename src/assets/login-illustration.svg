@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" fill="none">
+  <circle cx="240" cy="240" r="220" fill="#F1F5F4"/>
+  <circle cx="240" cy="240" r="170" fill="#D9E2E0"/>
+
+  <!-- mesa -->
+  <rect x="90" y="330" width="300" height="18" rx="6" fill="#134E4A"/>
+  <rect x="120" y="348" width="16" height="60" fill="#0F2E2B"/>
+  <rect x="344" y="348" width="16" height="60" fill="#0F2E2B"/>
+
+  <!-- notebook -->
+  <rect x="175" y="270" width="130" height="80" rx="6" fill="#0F2E2B"/>
+  <rect x="185" y="280" width="110" height="60" rx="3" fill="#5B8F86"/>
+  <rect x="150" y="348" width="180" height="10" rx="4" fill="#0F2E2B"/>
+
+  <!-- caderno / bloco de notas -->
+  <rect x="90" y="300" width="70" height="50" rx="4" fill="#FFFFFF" stroke="#134E4A" stroke-width="3"/>
+  <line x1="102" y1="315" x2="148" y2="315" stroke="#5B8F86" stroke-width="3"/>
+  <line x1="102" y1="328" x2="140" y2="328" stroke="#5B8F86" stroke-width="3"/>
+  <line x1="102" y1="341" x2="132" y2="341" stroke="#5B8F86" stroke-width="3"/>
+
+  <!-- xicara -->
+  <circle cx="345" cy="320" r="16" fill="#0F2E2B"/>
+  <path d="M358 316c8 0 8 12 0 12" stroke="#0F2E2B" stroke-width="3" fill="none"/>
+
+  <!-- pessoa -->
+  <ellipse cx="245" cy="200" rx="34" ry="36" fill="#134E4A"/>
+  <circle cx="245" cy="155" r="30" fill="#C9B8A3"/>
+  <path d="M215 148c0-22 60-22 60 0-4-8-16-14-30-14s-26 6-30 14z" fill="#0F2E2B"/>
+  <rect x="215" y="185" width="60" height="90" rx="16" fill="#115E59"/>
+  <rect x="205" y="210" width="24" height="70" rx="10" fill="#134E4A"/>
+  <rect x="261" y="210" width="24" height="70" rx="10" fill="#134E4A"/>
+
+  <!-- balao de fala -->
+  <path d="M300 120c0-16 14-28 30-28h60c16 0 30 12 30 28s-14 28-30 28h-38l-20 16 4-16h-6c-16 0-30-12-30-28z" fill="#FFFFFF" stroke="#5B8F86" stroke-width="3"/>
+  <line x1="318" y1="112" x2="368" y2="112" stroke="#5B8F86" stroke-width="4" stroke-linecap="round"/>
+  <line x1="318" y1="126" x2="356" y2="126" stroke="#5B8F86" stroke-width="4" stroke-linecap="round"/>
+</svg>

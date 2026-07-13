@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" fill="none">
+  <circle cx="240" cy="240" r="220" fill="#F1F5F4"/>
+  <circle cx="240" cy="240" r="170" fill="#D9E2E0"/>
+
+  <!-- chao -->
+  <ellipse cx="240" cy="392" rx="150" ry="18" fill="#C3D0CD"/>
+
+  <!-- pessoa -->
+  <rect x="205" y="200" width="70" height="110" rx="20" fill="#134E4A"/>
+  <circle cx="240" cy="160" r="34" fill="#C9B8A3"/>
+  <path d="M206 152c0-24 68-24 68 0-6-10-20-16-34-16s-28 6-34 16z" fill="#0F2E2B"/>
+
+  <!-- braço acenando -->
+  <path d="M272 220c20-10 34-30 36-52" stroke="#134E4A" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="310" cy="164" r="14" fill="#C9B8A3"/>
+
+  <!-- braço apoiado -->
+  <path d="M208 230c-16 6-26 22-26 40" stroke="#134E4A" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="180" cy="272" r="14" fill="#C9B8A3"/>
+
+  <!-- pernas -->
+  <rect x="212" y="300" width="22" height="70" rx="8" fill="#0F2E2B"/>
+  <rect x="246" y="300" width="22" height="70" rx="8" fill="#0F2E2B"/>
+
+  <!-- placa "bem-vindo" -->
+  <rect x="330" y="330" width="110" height="46" rx="8" fill="#FFFFFF" stroke="#134E4A" stroke-width="3"/>
+  <text x="385" y="359" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#134E4A">+ você</text>
+
+  <!-- marcas discretas -->
+  <circle cx="120" cy="150" r="5" fill="#5B8F86"/>
+  <circle cx="355" cy="260" r="4" fill="#5B8F86"/>
+  <circle cx="110" cy="300" r="4" fill="#5B8F86"/>
+</svg>
