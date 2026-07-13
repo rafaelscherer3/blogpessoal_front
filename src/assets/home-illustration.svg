@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" fill="none">
+  <ellipse cx="240" cy="330" rx="190" ry="26" fill="#134E4A" opacity="0.12"/>
+
+  <!-- livro aberto -->
+  <path d="M240 100c-40-26-100-30-150-14v190c50-16 110-12 150 14V100z" fill="#5B8F86"/>
+  <path d="M240 100c40-26 100-30 150-14v190c-50-16-110-12-150 14V100z" fill="#115E59"/>
+  <path d="M240 100v290" stroke="#0F2E2B" stroke-width="4"/>
+
+  <!-- linhas de texto esquerda -->
+  <line x1="115" y1="140" x2="215" y2="128" stroke="#F1F5F4" stroke-width="6" stroke-linecap="round"/>
+  <line x1="115" y1="168" x2="215" y2="156" stroke="#F1F5F4" stroke-width="6" stroke-linecap="round"/>
+  <line x1="115" y1="196" x2="205" y2="186" stroke="#F1F5F4" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- linhas de texto direita -->
+  <line x1="265" y1="128" x2="365" y2="140" stroke="#D9E2E0" stroke-width="6" stroke-linecap="round"/>
+  <line x1="265" y1="156" x2="365" y2="168" stroke="#D9E2E0" stroke-width="6" stroke-linecap="round"/>
+  <line x1="275" y1="186" x2="365" y2="196" stroke="#D9E2E0" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- balao de comentario -->
+  <path d="M330 30c0-14 12-24 26-24h50c14 0 26 10 26 24s-12 24-26 24h-28l-18 14 3-14h-7c-14 0-26-10-26-24z" fill="#FFFFFF" stroke="#5B8F86" stroke-width="3"/>
+  <circle cx="352" cy="30" r="4" fill="#134E4A"/>
+  <circle cx="368" cy="30" r="4" fill="#134E4A"/>
+  <circle cx="384" cy="30" r="4" fill="#134E4A"/>
+
+  <!-- marcador discreto -->
+  <rect x="55" y="235" width="30" height="40" fill="#134E4A"/>
+  <path d="M55 235l15 12 15-12" fill="#F1F5F4"/>
+</svg>
